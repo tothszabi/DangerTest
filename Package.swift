@@ -7,6 +7,8 @@
 
 import PackageDescription
 
+// Add some comment
+
 let package = Package(
     name: "Danger",
     platforms: [.iOS("16"), .macOS("13")],
