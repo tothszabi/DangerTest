@@ -1,0 +1,4 @@
+module DangerSwiftCoverage {
+    header "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/DangerSwiftCoverage-Swift.h"
+    requires objc
+}

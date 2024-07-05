@@ -1,0 +1,65 @@
+{
+  "": {
+    "swift-dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/master.swiftdeps"
+  },
+  "/Users/szabi/Dev/misc/DangerTest/.build/checkouts/danger-swift-coverage/Sources/DangerSwiftCoverage/DangerSwiftCoverage.swift": {
+    "dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/DangerSwiftCoverage.d",
+    "object": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/DangerSwiftCoverage.swift.o",
+    "swiftmodule": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/DangerSwiftCoverage~partial.swiftmodule",
+    "swift-dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/DangerSwiftCoverage.swiftdeps"
+  },
+  "/Users/szabi/Dev/misc/DangerTest/.build/checkouts/danger-swift-coverage/Sources/DangerSwiftCoverage/Models/ExcludedTarget.swift": {
+    "dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/ExcludedTarget.d",
+    "object": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/ExcludedTarget.swift.o",
+    "swiftmodule": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/ExcludedTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/ExcludedTarget.swiftdeps"
+  },
+  "/Users/szabi/Dev/misc/DangerTest/.build/checkouts/danger-swift-coverage/Sources/DangerSwiftCoverage/Models/Report.swift": {
+    "dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/Report.d",
+    "object": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/Report.swift.o",
+    "swiftmodule": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/Report~partial.swiftmodule",
+    "swift-dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/Report.swiftdeps"
+  },
+  "/Users/szabi/Dev/misc/DangerTest/.build/checkouts/danger-swift-coverage/Sources/DangerSwiftCoverage/Models/SPMCoverage.swift": {
+    "dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/SPMCoverage.d",
+    "object": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/SPMCoverage.swift.o",
+    "swiftmodule": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/SPMCoverage~partial.swiftmodule",
+    "swift-dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/SPMCoverage.swiftdeps"
+  },
+  "/Users/szabi/Dev/misc/DangerTest/.build/checkouts/danger-swift-coverage/Sources/DangerSwiftCoverage/Models/XcodeBuildCoverage.swift": {
+    "dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcodeBuildCoverage.d",
+    "object": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcodeBuildCoverage.swift.o",
+    "swiftmodule": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcodeBuildCoverage~partial.swiftmodule",
+    "swift-dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcodeBuildCoverage.swiftdeps"
+  },
+  "/Users/szabi/Dev/misc/DangerTest/.build/checkouts/danger-swift-coverage/Sources/DangerSwiftCoverage/SPM/SPMCoverageParser.swift": {
+    "dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/SPMCoverageParser.d",
+    "object": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/SPMCoverageParser.swift.o",
+    "swiftmodule": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/SPMCoverageParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/SPMCoverageParser.swiftdeps"
+  },
+  "/Users/szabi/Dev/misc/DangerTest/.build/checkouts/danger-swift-coverage/Sources/DangerSwiftCoverage/ShellOutExecutor.swift": {
+    "dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/ShellOutExecutor.d",
+    "object": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/ShellOutExecutor.swift.o",
+    "swiftmodule": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/ShellOutExecutor~partial.swiftmodule",
+    "swift-dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/ShellOutExecutor.swiftdeps"
+  },
+  "/Users/szabi/Dev/misc/DangerTest/.build/checkouts/danger-swift-coverage/Sources/DangerSwiftCoverage/XcodeBuild/XcCovJSONParser.swift": {
+    "dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcCovJSONParser.d",
+    "object": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcCovJSONParser.swift.o",
+    "swiftmodule": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcCovJSONParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcCovJSONParser.swiftdeps"
+  },
+  "/Users/szabi/Dev/misc/DangerTest/.build/checkouts/danger-swift-coverage/Sources/DangerSwiftCoverage/XcodeBuild/XcodeBuildCoverageParser.swift": {
+    "dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcodeBuildCoverageParser.d",
+    "object": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcodeBuildCoverageParser.swift.o",
+    "swiftmodule": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcodeBuildCoverageParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcodeBuildCoverageParser.swiftdeps"
+  },
+  "/Users/szabi/Dev/misc/DangerTest/.build/checkouts/danger-swift-coverage/Sources/DangerSwiftCoverage/XcodeBuild/XcresultBundleFinder.swift": {
+    "dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcresultBundleFinder.d",
+    "object": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcresultBundleFinder.swift.o",
+    "swiftmodule": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcresultBundleFinder~partial.swiftmodule",
+    "swift-dependencies": "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerSwiftCoverage.build/XcresultBundleFinder.swiftdeps"
+  }
+}

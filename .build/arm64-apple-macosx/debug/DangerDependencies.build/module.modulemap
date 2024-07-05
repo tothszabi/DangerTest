@@ -1,0 +1,4 @@
+module DangerDependencies {
+    header "/Users/szabi/Dev/misc/DangerTest/.build/arm64-apple-macosx/debug/DangerDependencies.build/DangerDependencies-Swift.h"
+    requires objc
+}
